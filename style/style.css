@@ -285,8 +285,8 @@ body {
   /* size: 50px; */
   display: inline-block;
   max-width: 50%; /* Reduced from 45% */
-  height: 40%;
-  margin-bottom: 20%;
+  height: 10%;
+  /* margin-bottom: 20%; */
   /* margin-top: 10% !important; */
   background-size: cover;
 }
