@@ -284,8 +284,8 @@ body {
   .six img {
   /* size: 50px; */
   display: inline-block;
-  max-width: 100%; /* Reduced from 45% */
-  height: 100%;
+  max-width: 50%; /* Reduced from 45% */
+  height: 40%;
   margin-bottom: 20%;
   /* margin-top: 10% !important; */
   background-size: cover;
