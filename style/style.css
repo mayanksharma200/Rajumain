@@ -118,7 +118,7 @@ body {
 
 .six img {
   /* size: 50px; */
-  display: inline-block;
+  display: inline;
   max-width: 30%; /* Reduced from 45% */
   height: 20%;
   /* margin-bottom: 20%; */
@@ -253,7 +253,7 @@ body {
   }
     .six img {
   /* size: 50px; */
-  display: inline-block;
+  display: inline;
   max-width: 50%; /* Reduced from 45% */
   height: 10% !important;
   /* margin-bottom: 20%; */
@@ -268,7 +268,7 @@ body {
   }
     .six img {
   /* size: 50px; */
-  display: inline-block;
+  display: inline;
   max-width: 50%; /* Reduced from 45% */
   height: 10% !important;
   /* margin-bottom: 20%; */
@@ -301,7 +301,7 @@ body {
 
   .six img {
   /* size: 50px; */
-  display: inline-block;
+  display: inline;
   max-width: 50%; /* Reduced from 45% */
   height: 10% !important;
   /* margin-bottom: 20%; */
