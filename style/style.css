@@ -251,12 +251,30 @@ body {
   .six .hat {
     left: 30%; /* Adjusted from 32% */
   }
+    .six img {
+  /* size: 50px; */
+  display: inline-block;
+  max-width: 50%; /* Reduced from 45% */
+  height: 10% !important;
+  /* margin-bottom: 20%; */
+  /* margin-top: 10% !important; */
+  background-size: cover;
+}
 }
 
 @media screen and (max-height: 850px) and (max-width: 450px) {
   .six .hat {
     left: 30%; /* Adjusted from 32% */
   }
+    .six img {
+  /* size: 50px; */
+  display: inline-block;
+  max-width: 50%; /* Reduced from 45% */
+  height: 10% !important;
+  /* margin-bottom: 20%; */
+  /* margin-top: 10% !important; */
+  background-size: cover;
+}
 }
 
 @media screen and (max-width: 500px) {
@@ -285,7 +303,7 @@ body {
   /* size: 50px; */
   display: inline-block;
   max-width: 50%; /* Reduced from 45% */
-  height: 10%;
+  height: 10% !important;
   /* margin-bottom: 20%; */
   /* margin-top: 10% !important; */
   background-size: cover;
